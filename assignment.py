@@ -63,8 +63,8 @@ if 0 <= marks_scored <=100:
 # If the student selects 3, the account balance should be displayed. 
 
 Balance=0
-print("Welcome to, W-+ITI Academy Sacco")
-print("/nPlease choose an option:")
+print("Welcome to, WITI Academy Sacco")
+print("\nPlease choose an option:")
 print("1. Deposit Money")
 print("2. Withdraw Money")
 print("3. Check Balance")
